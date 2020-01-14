@@ -1,0 +1,17 @@
+{
+	"title": "What programming language are you?",
+	"categories": ["Python", "Java", "C++", "C"],
+	"questions": [{
+			"Question": "What pizza do you like?",
+			"Choices": ["Sausage", "Pepperoni", "Pineapple", "Cheese"]
+		},
+		{
+			"Question": "What is your ideal date?",
+			"Choices": ["Dinner and a movie", "Skydiving", "Netflix", "A long walk on a beach"]
+		},
+		{
+			"Question": "Which game is best?",
+			"Choices": ["Monopoly", "Chutes and Ladders", "Uno", "Settlers of Catan"]
+		}
+	]
+}
